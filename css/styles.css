@@ -1250,7 +1250,7 @@ img {
 
 .modal-chek-text {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   font-size: 12px;
   line-height: 1.17;
   font-weight: 400;
